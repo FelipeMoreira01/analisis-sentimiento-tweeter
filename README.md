@@ -1,3 +1,5 @@
+Análisis de sentimientos de Tweeter
+
 * El problema trata de poder clasificar la polaridad de distintos tweeters de a cuerdo a su sentimiento que representan
 * El objetivo consiste en poder identificar con la mayor exactitud posible si un tweet tiene una polaridad negativa o positiva.
 * La base entregada nos entrega una columna con el tweet y otra con el sentimiento que se identifica en cada tweet.
